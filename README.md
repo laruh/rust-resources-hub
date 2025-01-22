@@ -1,3 +1,5 @@
+This work is licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+
 Table of Contents
 1. [Official Documentation by rust-lang org](#official-documentation-by-rust-lang-org)
 2. [Open Source Books or Free Books](#open-source-books-or-free-books)
