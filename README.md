@@ -79,9 +79,9 @@ Table of Contents
 - [Introduction to WebAssembly](https://www.rust-lang.org/what/wasm)
 - [ Rust and WebAssembly Working Group Docs](https://rustwasm.github.io/docs.html)
   - [The Rust Wasm Book](https://rustwasm.github.io/docs/book)
-  - [The `wasm-bindgen` Guide](https://rustwasm.github.io/docs/wasm-bindgen)
-  - [The `wasm-pack` Book](https://rustwasm.github.io/docs/wasm-pack)
-  - [The `wasm-pack` Book Tutorials](https://rustwasm.github.io/docs/wasm-pack/tutorials/index.html)
+  - [The wasm-bindgen Guide](https://rustwasm.github.io/docs/wasm-bindgen)
+  - [The wasm-pack Book](https://rustwasm.github.io/docs/wasm-pack)
+  - [The wasm-pack Book Tutorials](https://rustwasm.github.io/docs/wasm-pack/tutorials/index.html)
 
 ### Blockchain
 - [CosmWasm Book](https://book.cosmwasm.com/)
@@ -99,8 +99,8 @@ Table of Contents
 - [Smart Pointers in Rust: A Comprehensive Guide by Murat Genc](https://gencmurat.com/en/posts/smart-pointers-in-rust/) 2024-07-03
 - [Futures Explained in 200 Lines of Rust](https://github.com/blandger/books-futures-explained) 2020-04-06: Final draft finished
 - [ARC Mutex in Rust by Adam Shirey](https://aeshirey.github.io/code/2020/12/23/arc-mutex-in-rust.html) 2020-12-23
-- [Explaining Atomics in Rust](https://cfsamsonbooks.gitbook.io/explaining-atomics-in-rust)
-- [Explaining Atomics in Rust GitHub](https://github.com/cfsamson/articles-atomics-in-rust)
+- [Explaining Atomics in Rust by cfsamson](https://cfsamsonbooks.gitbook.io/explaining-atomics-in-rust)
+- [Explaining Atomics in Rust by cfsamson GitHub](https://github.com/cfsamson/articles-atomics-in-rust)
 - [Reactor-Executor Pattern: A Deep Dive by Murat Genc](https://gencmurat.com/en/posts/reactor-executer-pattern/) 2024-06-11
 - [An example implementation that creates an event queue based on Kqueue, Epoll and IOCP](https://github.com/cfsamson/examples-minimio)
 - [The ultimate guide to Rust newtypes by howtocodeit](https://www.howtocodeit.com/articles/ultimate-guide-rust-newtypes)
